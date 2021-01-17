@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aerial-mission-302010",
+  "private_key_id": "ca1d413ad19a60af5e7781d0a5a808b8ddff507b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC04JjNhy7KmR3r\nDoRiNPXrPr6lpztfaSZBrh7TlutJ/UhcppuMszR4ZJgrvV4CpzxP1S0GmYVYmLjj\naD+WDdTBtcc1bur0199OkHDMmLLjA3EeETwcHuaNp1B+NMr7FmUSMNoxlu9YnnO6\nP8mG7EV4WSwFLpJB/LREPFMWJT6FRUQXPpHNq7Alb1cja7E1ILc8VkkZDgcj+DGx\noQVMdhI57rDRftPBuQFdAqLiB77gfXZD/wTy/D8BwMvuA6i0QwqQ9uIlkmWGXU47\nnExjC9gCjCiasTXCs3FMYAvcwHGdF4nq7kQ/I+jksaENoMof7VgE5VCRtXymjXjd\nHDRVVlPxAgMBAAECggEAQO+A7AhkHAfsXb7QeBFbWCEmgIIRJqexPFMubff4cI+l\nst19an3LkI1MtCc/4OP5GxAFIiFrZesuNTXv3gcJIqIH6n7viwcU/DeOx2Tqk+Vg\nbtLxKYdObfxrQWPim1Hm5yjyrGrrcn0wPuU3jGC2cAZTb2jQyS/X58dgbMriLyWc\nUOaDgdpWInbWwUCtp3cxIY5fdVwLGZjALQ26inKq1lZGRa2QmR9LvZnGL6EFn4/I\n7LBFqmDoK+e6JBfGhdT76CnMUqVJMStMMCFii2XHKuZYelNuJqkiE73qa8tPLqbw\nOk2YncwrjiHaiGxDbsPs1vxqYlwSHb/SlUj7rpRVIQKBgQDZOZj9amFNhAg7gMBC\nweivjR64XmyONjO460Xrispq0mpAkhfJrzMQek1G7LPsN3+U0uKnkCi/IwH3OYMj\nSBDTKlyxbB2+VxsbCXcTVkAhyVwo4Xl4K/bNzlvLcp/JU5xnLf1aMBet4BShzCV0\nHwtQFKxYhT+6gpunP+IjXzeTCwKBgQDVKgqtoIG/BTCEb9dms5Rg5cy/9DdyQIFt\ne5tYKoDbckyBWkH6EgCI5np5tmcAs2DYg7m3iTqIhbMDlLWtZwW3pkHgrnhw+OS9\n/ub01277EZvl82iRWNsCZ9H1n8WpqI4JZPZHgigR/qKl1egwBM6UqKhfNekLaaWQ\nRlEfammScwKBgQCHbcR3QgqWBFoJlvTG6hQC1u2vLpdpdlt6z5wRBL+8J6E8zphs\nEoG4pTdmn45xGAy/oVbT9ymgONgx5TZgGb77mC6gIvLMR4xLp/QIJz7mkZ6WkjRj\n+qztlNlgFv+NykX5gg+xWch5i/nxAdDb+7rW23yz16dqxaD7ffWj7eo9DwKBgDD/\nMOUn96rIrpZCfuiEbp63M5ELuZLxcM6Rkut5GZVXeG5jKLcqXCUblRtU6egnUyNx\nY8bkLCglUziHfhsViyLjfFEAyX5uN2XUqZGt0zyyl3sLsAV4vx6WbpRe3ThaHgva\nwSE+sacxOIGV4YDoGfPhsJHx+lc9OWkoQI1QEGQxAoGBALALBWjWsPgB5CaYNFLd\nt+2IwuiJOl9CQM7n0FgEX3taVD12N5qaEKiRXBbM+pSROBDki4CK9jL2kOfMebNq\nmZQohz+0c25gk4MRREUB4pyOg7R7ddjdT1Dw4kHA52LNe/8IUxbxrQeJjhkStCJZ\nyzFKa3c/6FFCPgdHfos08ySn\n-----END PRIVATE KEY-----\n",
+  "client_email": "translate@aerial-mission-302010.iam.gserviceaccount.com",
+  "client_id": "115848691097487556409",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translate%40aerial-mission-302010.iam.gserviceaccount.com"
+}
